@@ -4,6 +4,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NEONITIN3&label=Profile%20views&color=0e75b6&style=flat" alt="NEONITIN3" /> </p>
 **About me**
+
 - 👀 I’m interested in programming and logic building.
 - 👀 I’m interested in fitness as well for better mind and healthy body.
 - 🌱 I’m currently working as a Software engineer and exploring the Data engineer world
