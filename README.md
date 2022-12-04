@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NEONITIN3&label=Profile%20views&color=0e75b6&style=flat" alt="NEONITIN3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NEONITIN3&label=Profile%20views&color=#9ec7e1&style=flat" alt="NEONITIN3" /> </p>
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 :) 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> I'm Neo Nitin from India :)</h2>
 </div>
