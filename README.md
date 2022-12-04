@@ -26,3 +26,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://auth.geeksforgeeks.org/user/nitingaud1999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="NEONITIN3" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/NEONITIN" target="blank"><img align="center" <i class="fa-brands fa-hackerrank"></i> alt="NEONITIN3" height="30" width="40" /></a>
   </div>
+ <a href="#" class="fa fa-linkedin"></a>
+        <a href="#" class="fa fa-pinterest"></a>
+        <a href="#" class="fa fa-reddit"></a>
