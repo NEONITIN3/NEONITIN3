@@ -43,6 +43,14 @@ You can click the Preview link to take a look at your changes.
 <p align="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NEONITIN3" alt="NEONITIN3" /></a> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NEONITIN3&" alt="NEONITIN3" /></p>
 <div align="center">
+    
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#79](https://github.com/NEONITIN3/github-activity-readme/issues/79) in [NEONITIN3/github-activity-readme](https://github.com/NEONITIN3/github-activity-readme)
+2. 🎉 Merged PR [#36](https://github.com/NEONITIN3/csstox/pull/36) in [NEONITIN3/csstox](https://github.com/NEONITIN3/csstox)
+3. 🎉 Merged PR [#40](https://github.com/NEONITIN3/scaffold-static/pull/40) in [NEONITIN3/scaffold-static](https://github.com/NEONITIN3/scaffold-static)
+4. 🎉 Merged PR [#135](https://github.com/NEONITIN3/teachcode/pull/135) in [NEONITIN3/teachcode](https://github.com/NEONITIN3/teachcode)
+5. 🎉 Merged PR [#136](https://github.com/NEONITIN3/teachcode/pull/136) in [NEONITIN3/teachcode](https://github.com/NEONITIN3/teachcode)
+<!--END_SECTION:activity-->
   <h3 align="center" >My fitness Motivation</h3>
    <a href="https://www.youtube.com/embed/ftrOzud_Bpw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="NEONITIN3" height="30" width="40" /></a>
    </div>
