@@ -15,7 +15,7 @@
 NEONITIN3/NEONITIN3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/NEONITIN3/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NEONITIN3&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Neo Nitin github stats" /></a> | <a href="https://github.com/NEONITIN3/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEONITIN3&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <h3 align="left">Languages and Tools:</h3>
