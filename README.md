@@ -5,7 +5,7 @@
 - 🌱 I’m currently working as a Software engineer and exploring the Data engineer world
 - 💞️ I’m looking to collaborate on programming problem discussion 
 - 📫 How to reach me mail me nitingaud@gmail.com
-- [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/james_madhacks) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jamesgeorge007)
+- [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/nitin-gaur1999/)
 - here my my work and health and fitness work https://neonitin3.github.io/gymyaari/
 
 <!---
