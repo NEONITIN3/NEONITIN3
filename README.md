@@ -29,6 +29,7 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NEONITIN3&" alt="NEONITIN3" /></p>
 <div align="center">
   <h3 align="center" >My fitness Motivation</h3>
+   <a href="https://www.youtube.com/embed/ftrOzud_Bpw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="NEONITIN3" height="30" width="40" /></a>
    </div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ftrOzud_Bpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
  
