@@ -18,4 +18,3 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/NEONITIN3/CARD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NEONITIN3&repo=CARD" />
 </a>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NEONITIN3&repo=github-readme-stats)](https://github.com/NEONITIN3)
