@@ -2,6 +2,11 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 :), 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> I'm Neo Nitin</h2>
 </div>
 </p>
+<div align="center" width="50">
+
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NEONITIN3&label=Profile%20views&color=0e75b6&style=flat" alt="NEONITIN3" /> </p>
 
 - 👀 I’m interested in programming and logic building.
