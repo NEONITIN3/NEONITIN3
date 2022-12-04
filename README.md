@@ -22,8 +22,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://leetcode.com/neonitin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alokkumar1997maurya" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nitingaud1999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="alokkumar1997maurya" height="30" width="40" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alokkumar1997maurya&show_icons=true&locale=en&layout=compact" alt="alokkumar1997maurya" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alokkumar1997maurya&show_icons=true&locale=en" alt="alokkumar1997maurya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokkumar1997maurya&" alt="alokkumar1997maurya" /></p>
