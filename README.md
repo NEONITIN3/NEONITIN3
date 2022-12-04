@@ -6,8 +6,6 @@
   <a href="https://www.hackerrank.com/NEONITIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hacker-rank.svg" alt="NEONITIN3" height="30" width="40" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NEONITIN3&label=Profile%20views&color=0e75b6&style=flat" alt="NEONITIN3" /> </p>
-<p align="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NEONITIN3" alt="NEONITIN3" /></a> </p>
-
 - 👀 I’m interested in programming and logic building.
 - 👀 I’m interested in fitness as well for better mind and healthy body.
 - 🌱 I’m currently working as a Software engineer and exploring the Data engineer world
@@ -20,5 +18,5 @@ NEONITIN3/NEONITIN3 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ![NEO GitHub stats](https://github-readme-stats.vercel.app/api?username=NEONITIN3&theme=light&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NEONITIN3&layout=compact)](https://github.com/NEONITIN3/CARD)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NEONITIN3&" alt="NEONITIN3" /></p>
+<p align="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NEONITIN3" alt="NEONITIN3" /></a> </p>
