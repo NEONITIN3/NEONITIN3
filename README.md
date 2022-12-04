@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @NEONITIN3
+- ###👋 Hi Buddy,
+-  I’m @NEONITIN3
 - 👀 I’m interested in programming and logic building.
 - 👀 I’m interested in fitness as well for better mind and healthy body.
 - 🌱 I’m currently working as a Software engineer and exploring the Data engineer world
 - 💞️ I’m looking to collaborate on programming problem discussion 
 - 📫 How to reach me mail me nitingaud@gmail.com
+- [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/james_madhacks) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jamesgeorge007)
 - here my my work and health and fitness work https://neonitin3.github.io/gymyaari/
 
 <!---
@@ -12,21 +14,3 @@ You can click the Preview link to take a look at your changes.
 --->
 ![NEO GitHub stats](https://github-readme-stats.vercel.app/api?username=NEONITIN3&theme=light&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NEONITIN3&layout=compact)](https://github.com/NEONITIN3/CARD)
 
-
-name: Update README
-
-on:
-  schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-
-    steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
