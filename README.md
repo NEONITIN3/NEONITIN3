@@ -1,14 +1,6 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 :), 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 :), 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> I'm Neo Nitin</h2>
 </div>
-<div align="right">
-<h2>connect with me</h2>
-<a href="https://www.linkedin.com/in/nitin-gaur1999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NEONITIN3" height="30" width="40" /></a>
-<a href="https://leetcode.com/neonitin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="NEONITIN3" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/neonitin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="NEONITIN3" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nitingaud1999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="NEONITIN3" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/NEONITIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hacker-rank.svg" alt="NEONITIN3" height="30" width="40" /></a>
-  </div>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NEONITIN3&label=Profile%20views&color=0e75b6&style=flat" alt="NEONITIN3" /> </p>
 
