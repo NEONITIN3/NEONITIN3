@@ -10,7 +10,6 @@
 NEONITIN3/NEONITIN3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![NEO GitHub stats](https://github-readme-stats.vercel.app/api?username=NEONITIN3&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NEONITIN3&layout=compact)](https://github.com/NEONITIN3/CARD)
+![NEO GitHub stats](https://github-readme-stats.vercel.app/api?username=NEONITIN3&theme=dark&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NEONITIN3&layout=compact)](https://github.com/NEONITIN3/CARD)
 
 
