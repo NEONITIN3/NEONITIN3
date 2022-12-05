@@ -10,7 +10,7 @@
 - 👀 I’m interested in fitness as well for better mind and healthy body.
 - 🌱 I’m currently working as a Software engineer and exploring the Data engineer world
 - 💞️ I’m looking to collaborate on programming problem discussion 
-- 📫 you can each me at:e-mail: neonitin6@gmail.com
+- 📫 you can reach me at:e-mail: neonitin6@gmail.com
 - here my my work and health and fitness work https://neonitin3.github.io/gymyaari/
 
 <!---
